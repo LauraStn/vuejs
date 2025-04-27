@@ -1,0 +1,14 @@
+/* body {
+  background: white;
+}
+h1 {
+  background: linear-gradient(
+    90deg,
+    rgba(180, 58, 125, 1) 0%,
+    rgba(253, 253, 29, 1) 100%
+  );
+  background-clip: text;
+  color: transparent;
+  width: 50%;
+  display: flex;
+} */
