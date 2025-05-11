@@ -5,7 +5,7 @@
   <button @click="show">show</button>
   <!-- <input v-bind:type="text" name="" id="" v-bind:value="str" /> -->
   <input type="text" name="" id="" v-model="str" />
-  {{ str }}
+  {{ str }} 
   <div v-if="display">if</div>
   <p>count: {{ count }}</p>
   <ul>
