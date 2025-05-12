@@ -18,7 +18,7 @@
 <script setup>
 import Btn from './Btn.vue';
 </script>
-<style>
+<style scoped>
 header {
   display: flex;
   justify-content: space-between;

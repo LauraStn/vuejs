@@ -12,3 +12,14 @@ h1 {
   width: 50%;
   display: flex;
 } */
+/* CSS reset de base */
+body,
+html {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+main {
+  border: none;
+}
